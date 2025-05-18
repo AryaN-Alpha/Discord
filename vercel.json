@@ -1,10 +1,5 @@
-
 {
   "builds": [
-    {
-      "src": "manage.py",
-      "use": "@vercel/python"
-    },
     {
       "src": "studybud/asgi.py",
       "use": "@vercel/python"

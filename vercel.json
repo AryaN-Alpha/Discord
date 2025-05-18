@@ -1,10 +1,4 @@
 {
-  "builds": [
-    {
-      "src": "studybud/asgi.py",
-      "use": "@vercel/python"
-    }
-  ],
   "routes": [
     {
       "src": "/static/(.*)",
